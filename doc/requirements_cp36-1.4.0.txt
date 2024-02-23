@@ -6,18 +6,18 @@ protobuf==3.12.2
 flatbuffers==1.12
 
 # utils
-requests==2.27.1
+requests==2.31.0
 psutil==5.9.0
 ruamel.yaml==0.17.4
-scipy==1.5.4
+scipy==1.11.1
 tqdm==4.64.0
 bfloat16==1.1
 opencv-python==4.5.5.64
 
 # base
-onnx==1.9.0
+onnx==1.15.0
 onnxoptimizer==0.2.7
 onnxruntime==1.10.0
-torch==1.10.1
+torch==1.13.1
 torchvision==0.11.2
-tensorflow==2.6.2
+tensorflow==2.11.1
